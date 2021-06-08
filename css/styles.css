@@ -1,0 +1,218 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather' , serif;
+    color: #40514E;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width: 6px;
+    border-color: #87b3b3;
+    width: 7%;
+    margin: 100px auto;
+    background-color: #fff;
+}
+
+h1{
+    color: #62b8b8;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem; /* 16=1em=100% */
+    line-height: 1.5;
+}
+
+h2{
+    color: #66BFBF;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: #11999E;
+}
+
+#contact-me a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+#contact-me a:hover{
+    color: #0e686b;
+}
+
+p{
+    line-height: 2;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-container{
+    background-color: #dff8f8;
+    margin-bottom: 20px;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 10px 0 10px;
+    margin-top: 90px;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+#cloud-top{
+    position: absolute;
+    right: 400px;
+    top: 45px;
+}
+
+#cloud-bottom{
+    position: absolute;
+    left : 350px;
+    bottom: 300px;
+}
+
+#profile-pic{
+    width: 15%;
+    border-radius: 100%;
+    padding: 20px;
+}
+
+.profile h2{
+    padding: 2%;
+}
+
+#programmer-text{
+    font-size: 1.3rem;
+}
+
+#intro{
+    width: 47%;
+    margin: auto;
+    padding: 5px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto ;
+    text-align: left;
+}
+
+#skill-img1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+#skill-img2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+#contact-msg{
+    width: 60%;
+    margin: 40px auto 40px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+#copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.contact-app{
+    display: inline-block;
+    text-align: center;
+    padding: 0 10px 10px;
+}
+
+.fab{
+    font-size: 30px;
+    display: block;
+    padding: 10px;
+}
+
+.fa-home{
+    font-size: 22px;
+}
+
+.navbar{
+    padding: 10px 0 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+    text-align: right;
+}
+
+.nav-link{
+    font-size: 1rem;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: lighter;
+}
+
+.git-link{
+    color: #40514E;
+}
+
+.git-link:hover{
+    color: #171f1d;
+}
+
+.contact-msg{
+    padding: 13px;
+}
+
+#projects{
+    padding: 7% 10% ;
+    background-color: #dff8f8;
+}
+
+.carousel-item{
+    padding: 3% 15%;
+}
+
+.carousel-item h3{
+    font-family: 'Lobster Two', cursive;
+    font-size: xx-large;
+}
+
+h4,.git-link{
+    line-height: 1.5;
+    font-size: large;
+}
+.carousel{
+    padding: 2% 7%;
+}
+
+#projects h3{
+    padding: 3%;
+}
+
+.project-img{
+    border-radius: 100%;
+    width: 50%;
+    padding: 40px;
+}
+
+.project-text{
+    line-height: 1.5;
+    padding: 2%;
+}
+
